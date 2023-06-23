@@ -4,6 +4,8 @@ A discord bot in JavaScript that allows you to display the status of your servic
 
 # HOW TO PLUG 
 
-Plug your folders and just do **npm i** and for final do node **index.js**
+> Plug your folders and just do
+> **npm i**
+> and for final do node **index.js**
 
 ## Enjoy ! 
